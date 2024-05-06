@@ -46,8 +46,22 @@ Optional RANSAC for Velocity Estimation: If enabled, the velocity of the camera 
 
 Velocity Storage: The calculated velocity is stored in the `estimatedV` variable, conforming to a specified structure that details linear and angular velocity components.
 
+## Part 2 Dataset 1 Ransac off: 
+
+<img width="1197" alt="image" src="https://github.com/Santoshsrini/Vision-based-Pose-estimation-of-quadrotor/assets/28926309/184ad046-b799-46a7-9e11-eb7c2771e594">
 
 
+## Part 2 Dataset 1 Ransac On: 
+
+<img width="1187" alt="image" src="https://github.com/Santoshsrini/Vision-based-Pose-estimation-of-quadrotor/assets/28926309/39818c8f-6e14-4bea-ab4e-1f72aa41fd26">
 
 
- 
+ ## Part 2 Dataset 4 Ransac off:
+
+ <img width="1214" alt="image" src="https://github.com/Santoshsrini/Vision-based-Pose-estimation-of-quadrotor/assets/28926309/e740ffb8-33ab-4a5d-89bd-6cdd183f08a3">
+
+ ## Part 2 Dataset 4 Ransac on:
+
+ <img width="1186" alt="image" src="https://github.com/Santoshsrini/Vision-based-Pose-estimation-of-quadrotor/assets/28926309/31a4750e-0f4d-4918-a55f-a6770729eeca">
+
+
